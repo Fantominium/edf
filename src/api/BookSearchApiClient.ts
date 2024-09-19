@@ -1,4 +1,3 @@
-// Import the helper functions from their respective files.
 import { parseJsonBook } from '../utils/parseJsonBook';
 import { parseXmlBook } from '../utils/parseXmlBook';
 

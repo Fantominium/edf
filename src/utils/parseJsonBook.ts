@@ -1,4 +1,3 @@
-// Utility function to parse JSON book data into the desired format.
 import { Book } from '../api/BookSearchApiClient';
 
 export function parseJsonBook(item: any): Book {
